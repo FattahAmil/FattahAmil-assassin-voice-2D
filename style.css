@@ -1,0 +1,20 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-image: url('/bg.jpg') ;
+    background-size: cover;
+
+}
+
+#character {
+    width: 70px;
+    height: 70px;
+    position: absolute;
+}
+img{
+    width: 70px;
+    height: 70px;
+}
